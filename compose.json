@@ -1,0 +1,19 @@
+{
+  "name": "rutgerkirkels/ethos-statistics",
+  "description": "Display ethOS mining statistics on your Wordpress site",
+  "keywords": ["wordpress", "plugin", "ethOS","statistics"],
+  "homepage": "https://rutger.kirkels.nl",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rutger Kirkels",
+      "email": "rutger@kirkels.nl",
+      "homepage": "https://rutger.kirkels.nl"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "v1.0.6"
+  }
+}
